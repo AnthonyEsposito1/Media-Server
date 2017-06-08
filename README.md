@@ -1,6 +1,6 @@
 # Media-Server
 1. Install python 3
-2. pip3 install virtualenv
+2. pip install virtualenv
 3. Make a new virtualenv file
 4. make new environment 
 5. virtualenv Media_Server
