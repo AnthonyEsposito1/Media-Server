@@ -12,4 +12,4 @@
 11. py "Flask Pycharm.py"
 12. running on localhost:5001
 13. CTRL+C to stop server
-14. deactivate to stop virtualenv
+14. type deactivate to stop virtualenv
